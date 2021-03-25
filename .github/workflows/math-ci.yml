@@ -1,0 +1,10 @@
+name: MathUtil project | CI process included ©2021 by thanhtrong
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+worflow_dispatch:
+
